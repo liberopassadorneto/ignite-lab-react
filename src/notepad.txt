@@ -1,0 +1,15 @@
+CMS - Content Management System
+
+Wordpress - traz tanto o painel de ADMIN tanto quanto a parte visual do front-end 
+
+Headless CMS (GraphCMS) - Painel de ADMIN (dados fornecidos através de uma API REST ou GraphQL)
+
+React consome essa API do CMS
+
+query / mutation 
+
+query - buscar dados
+
+mutation - criar, alterar ou deletar dados
+
+apollo / GraphQL
